@@ -11,7 +11,7 @@ const Header = () => {
         <img className="w-8 cursor-pointer" src={ethlogo} alt="logo" />
         <span className="text-white text-2xl ml-2">Ethereum</span>
       </div>
-      <ul className="md:flex md:flex-[0.5] text-white hidden list-none flex-row jusdtify-betweenitems-center flex-initial">
+      <ul className="md:flex md:flex-[0.7] text-white hidden list-none flex-row flex-initial">
         <li className="mx-4 cursor-pointer">Explore</li>
         <li className="mx-4 cursor-pointer">Features</li>
         <li className="mx-4 cursor-pointer">commuinty</li>
